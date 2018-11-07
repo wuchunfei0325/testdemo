@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5035" started-at="2018-11-06T09:36:42Z" finished-at="2018-11-06T09:36:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5035" started-at="2018-11-06T09:36:42Z" finished-at="2018-11-06T09:36:47Z">
+      <class name="com.daozhen.demo.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.daozhen.demo.NewTest@5442a311]" name="beforeTest" is-config="true" duration-ms="9" started-at="2018-11-06T17:36:42Z" finished-at="2018-11-06T17:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.daozhen.demo.NewTest@5442a311]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-11-06T17:36:42Z" finished-at="2018-11-06T17:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.daozhen.demo.NewTest@5442a311]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-11-06T17:36:42Z" finished-at="2018-11-06T17:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="fff()[pri:0, instance:com.daozhen.demo.NewTest@5442a311]" name="fff" duration-ms="5010" started-at="2018-11-06T17:36:42Z" finished-at="2018-11-06T17:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fff -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.daozhen.demo.NewTest@5442a311]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-11-06T17:36:47Z" finished-at="2018-11-06T17:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.daozhen.demo.NewTest@5442a311]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-11-06T17:36:47Z" finished-at="2018-11-06T17:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.daozhen.demo.NewTest@5442a311]" name="afterTest" is-config="true" duration-ms="1" started-at="2018-11-06T17:36:47Z" finished-at="2018-11-06T17:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.daozhen.demo.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
